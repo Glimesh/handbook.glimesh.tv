@@ -4,7 +4,7 @@ date: 2021-07-20T08:01:08-04:00
 draft: false
 ---
 
-Glimesh, Inc. is an [open company](/company/open-company), which explains how we operate the business. However Glimesh is not a non-profit, or public company, instead it is a privately owned C Corporation registered in the state of Delaware. Glimesh, Inc. is currently wholly owned by Luke Strickland.  
+Glimesh, Inc. is an [open company](/company/open-company), which explains how we operate the business. However Glimesh is not a non-profit, or public company, instead it is a privately owned [C Corporation](https://en.wikipedia.org/wiki/C_corporation) registered in the state of Delaware in the United States. Glimesh, Inc. is currently wholly owned by Luke Strickland.  
 
 ### Ownership Stakes 
 Luke Strickland - 100%
