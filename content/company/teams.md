@@ -17,16 +17,11 @@ Other responsibilities:
 ## Glimesh Community Team
 The GCT is a group of volunteer supporters of the platform, and it's vision. The GCT's goal is to provide a safe, fair, and efficient streaming platform through consistent and positive community interaction.
 
-The Glimesh Community Team is broken up into geographic areas:
-
- * Americas
- * Europe / Africa
- * Asia / Australia 
-
-With each geographic area having their own responsible team lead.
-
 ## Design
 The design team of Glimesh is responsible for creating and driving our brand. Our brand is a combination of our voice as a company, our design, our narrative, and our soul.
+
+## Marketing
+The marketing team is responsible for creating ideas, collateral, and plans for marketing campaigns focused on the growth of Glimesh. 
 
 
 ## Product Development
