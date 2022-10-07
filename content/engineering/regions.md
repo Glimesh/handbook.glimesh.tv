@@ -17,18 +17,21 @@ Web hosts our platform infrastructure including the website, chat, api, and othe
 ## Current Live Regions
 Live hosts our video streaming infrastructure. It's worth noting the live denotation is agnostic to the type of streaming being done (FTL, RTMP, WebRTC, etc).
 
-| Computer Name | Human Name | DigitalOcean DC's | Notes | 
-|---------------|------------|-------------------|-------|
-| kjfk.live.glimesh.tv | North America - New York | NYC1, NYC2, NYC3 | |
+| Computer Name | Human Name | Data Centers | Notes | 
+|---------------|------------|--------------|-------|
+| cyyz.live.glimesh.tv | North America - Toronto, Canada | DO-TOR1 | Points to KJFK | 
+| eddf.live.glimesh.tv | Europe - Frankfurt, Germany | DO-FRA1 | |
+| egll.live.glimesh.tv | Europe - London, United Kingdom | DO-LON1 | | 
+| eham.live.glimesh.tv | Europe - Amsterdam, Netherlands | DO-AMS1, DO-AMS2 | | 
+| kjfk.live.glimesh.tv | North America - New York | DO-NYC1, DO-NYC2, DO-NYC3 | |
 | kord.live.glimesh.tv | North America - Chicago | n/a | Points to KJFK | 
-| ksfo.live.glimesh.tv | North America - San Francisco  | SFO1, SFO2, SFO3 | Points to KJFK |
-| eham.live.glimesh.tv | Europe - Amsterdam, Netherlands | AMS1, AMS2 | Points to KJFK | 
-| wsss.live.glimesh.tv | Asia - Singapore | SGP1 | Points to KJFK |
-| egll.live.glimesh.tv | Europe - London, United Kingdom | LON1 | Points to KJFK | 
-| eddf.live.glimesh.tv | Europe - Frankfurt, Germany | FRA1 | Points to KJFK |
-| cyyz.live.glimesh.tv | North America - Toronto, Canada | TOR1 | Points to KJFK | 
-| vobl.live.glimesh.tv | Asia - Bangalore, India | BLR1 | Points to KJFK |
+| ksfo.live.glimesh.tv | North America - San Francisco | DO-SFO1, DO-SFO2, DO-SFO3 | |
+| sbgr.live.glimesh.tv | South America - São Paulo, Brazil | VR-sao-br | Points to KJFK |
+| vobl.live.glimesh.tv | Asia - Bangalore, India | DO-BLR1 | Points to KJFK |
+| wsss.live.glimesh.tv | Asia - Singapore | DO-SGP1 | |
+| yssy.live.glimesh.tv | Australia - Sydney, Australia | VR-syd-au | |
 
+Data Centers: DO = DigitalOcean VR = Vultr
 
 
 ## Naming Convention
